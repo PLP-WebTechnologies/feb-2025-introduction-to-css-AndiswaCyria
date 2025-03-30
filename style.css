@@ -1,0 +1,36 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color:rgba(250, 204, 21, 0.1);
+    color:rgb(153, 153, 108);
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+
+#flight_image {
+    width: 100px;
+    height: 200px;
+    border: 5px solid #facc15;
+    border-radius: 8px;
+    margin: 10px auto;
+    display: block; 
+}
+
+.title {
+    color: #facc15;
+    font-size: 28px;
+    margin: 20px 0;
+}
+
+.description {
+    color:black;
+    font-size: 18px;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid #facc15;
+    border-radius: 5px;
+    background-color: rgba(250, 204, 21, 0.1);
+    max-width: 80%;
+    line-height: 1.5;
+    text-align: left;
+}
